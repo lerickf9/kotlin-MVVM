@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368985445123",
+    "project_id": "mvvm-kotlin-course",
+    "storage_bucket": "mvvm-kotlin-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368985445123:android:4be10b2d893ebe05c54f36",
+        "android_client_info": {
+          "package_name": "com.erickcode.arqutecturemvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9Drnn2SutHVr-OoX1MDYLrHykScGxe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

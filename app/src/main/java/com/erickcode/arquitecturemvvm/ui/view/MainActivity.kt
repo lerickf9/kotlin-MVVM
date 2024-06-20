@@ -1,4 +1,4 @@
-package com.erickcode.arquitecturemvvm.view
+package com.erickcode.arquitecturemvvm.ui.view
 
 import android.os.Bundle
 import androidx.activity.viewModels
@@ -8,7 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.Observer
 import com.erickcode.arquitecturemvvm.databinding.ActivityMainBinding
-import com.erickcode.arquitecturemvvm.viewmodel.QuoteViewModel
+import com.erickcode.arquitecturemvvm.ui.viewmodel.QuoteViewModel
 
 class MainActivity : AppCompatActivity() {
 

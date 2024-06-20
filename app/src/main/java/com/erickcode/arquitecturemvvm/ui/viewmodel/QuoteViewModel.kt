@@ -1,9 +1,9 @@
-package com.erickcode.arquitecturemvvm.viewmodel
+package com.erickcode.arquitecturemvvm.ui.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.erickcode.arquitecturemvvm.model.QuoteModel
-import com.erickcode.arquitecturemvvm.model.QuoteProvider
+import com.erickcode.arquitecturemvvm.data.model.QuoteModel
+import com.erickcode.arquitecturemvvm.data.model.QuoteProvider
 
 class QuoteViewModel : ViewModel() {
 

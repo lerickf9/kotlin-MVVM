@@ -1,4 +1,4 @@
-package com.erickcode.arquitecturemvvm.model
+package com.erickcode.arquitecturemvvm.data.model
 
 class QuoteProvider {
     companion object {
